@@ -1,6 +1,5 @@
-# Data Cleaning: Steps to Clean Data ![license](https://img.shields.io/github/license/alifrmf/Country-Profiling-Using-PCA-and-Clustering.svg) ![releases](https://img.shields.io/github/release/alifrmf/Country-Profiling-Using-PCA-and-Clustering.svg)
-
-![Author Ali Farahmandfar](https://user-images.githubusercontent.com/105715834/233806865-fe9d2cd0-7d9f-46cc-9fcf-533f9ca3efb6.gif)
+# Data Cleaning: Steps to Clean Data ![license](https://img.shields.io/github/license/alifrmf/Data-Cleaning-Steps-to-Clean-Data.svg) ![releases](https://img.shields.io/github/release/alifrmf/Data-Cleaning-Steps-to-Clean-Data.svg)
+![Author Ali Farahmandfar](https://user-images.githubusercontent.com/105715834/233807005-8e542775-05d3-4fb6-815b-9d33b146e56c.gif)
 
 **Context**
 

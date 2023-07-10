@@ -6,6 +6,9 @@
 
 In finance, a stock index, or stock market index, is an index that measures a stock market, or a subset of the stock market, that helps investors compare current stock price levels with past prices to calculate market performance.
 
+![Presentation3](https://github.com/alifrmf/Data-Cleaning-Steps-to-Clean-Data/assets/105715834/740884ae-2116-4b73-bbc1-b4620c6d7ce6)
+
+
 ## Dataset 📔
 
 [Kaggle link: Market Index Dataset](https://www.kaggle.com/datasets/alifarahmandfar/market-index-dataset)
